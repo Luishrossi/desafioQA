@@ -1,5 +1,6 @@
 # Desafio QA Serasa
-##Framework utilizado para realização dos testes: Robot Framework
+
+## Framework utilizado para realização dos testes: Robot Framework
 Utilizei o Robot Framework por conta de ter conhecimento sobre a ferramenta 
 e dentro dos cenários utilizei as Libraries FakerLibrary, SeleniumLibrary e BuiltIn.
 
