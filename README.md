@@ -4,6 +4,11 @@
 Utilizei o Robot Framework por conta de ter conhecimento sobre a ferramenta 
 e dentro dos cenários utilizei as Libraries FakerLibrary, SeleniumLibrary e BuiltIn para realizar os testes Web
 
+## Escolha dos cenário 
+Utilizei os cenários descritos nos testes, para validar as mensagens que devem ser apresentadas assim que o usuário 
+sair do campo que está sendo preenchido. 
+
+
 ## Realizar os cenários de testes 
 Assim que forem feitas as instalações conforme está no arquivo de instruções. 
 No terminal, inserir o comando 
